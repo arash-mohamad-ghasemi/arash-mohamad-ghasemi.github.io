@@ -18,7 +18,7 @@
 
 🆔 ORCID: https://orcid.org/0000-0001-6463-3104
 
-🎓 Google Scholar: [YOUR_GOOGLE_SCHOLAR_LINK](https://scholar.google.com/citations?user=Ta5Mmo4AAAAJ
+🎓 Google Scholar: https://scholar.google.com/citations?user=Ta5Mmo4AAAAJ
 
 📄 CV: Coming Soon
 
