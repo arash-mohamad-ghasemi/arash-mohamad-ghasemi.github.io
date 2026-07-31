@@ -5,7 +5,13 @@
 **Renewable Energy Systems | Battery Energy Storage Systems | Photovoltaics | Energy System Modelling**
 
 ---
+## Navigation
 
+- [Home](README.md)
+- [About Me](about.md)
+- [Research](research.md)
+- [Projects](projects.md)
+- [Publications](publications.md)
 ## Welcome
 
 Welcome to my personal research website.
