@@ -13,9 +13,9 @@
 
 📍 Sweden
 
-📧 Email:  anders.arash@gmail.com
+📧 Email: anders.arash@gmail.com
 
-🔗 LinkedIn:https://www.linkedin.com/in/mohammad-ghasemi2020/
+🔗 LinkedIn: https://www.linkedin.com/in/mohammad-ghasemi2020/
 
 🆔 ORCID: https://orcid.org/0000-0001-6463-3104
 
