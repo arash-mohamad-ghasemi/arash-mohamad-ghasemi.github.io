@@ -1,5 +1,5 @@
 <p align="center">
-<img src="anders.png" width="220">
+<img src="anders.png" width="220" alt="Mohammad (Arash) Ghasemi">
 </p>
 # Mohammad (Arash) Ghasemi
 
