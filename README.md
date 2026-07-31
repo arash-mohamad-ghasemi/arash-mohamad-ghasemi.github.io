@@ -39,18 +39,40 @@ I am a research-oriented engineer with interdisciplinary expertise in renewable 
 This website documents my research activities, publications, projects, and professional development.
 
 ---
+## Research Vision
 
+My long-term research goal is to develop intelligent, resilient, and economically sustainable energy systems through the integration of renewable energy technologies, battery energy storage systems (BESS), photovoltaic systems, heat pumps, artificial intelligence, and advanced energy system modelling.
+
+My work aims to support industrial decarbonization and the Nordic energy transition by combining engineering principles, operational optimization, and data-driven decision support for future low-carbon energy systems.
+---
 ## Research Interests
 
-- Battery Energy Storage Systems (BESS)
+### Renewable Energy
 - Photovoltaic Systems
-- Renewable Energy Integration
-- Energy System Modelling
-- Techno-economic Assessment
-- Smart Energy Systems
-- Heat Pumps
+- Solar Thermal Energy
+- Heat Pump Technologies
 - Industrial Energy Systems
-- Nordic Energy Transition
+
+### Energy Storage
+- Battery Energy Storage Systems (BESS)
+- State of Charge (SOC)
+- State of Health (SOH)
+
+### Energy Systems
+- Energy System Modelling
+- Multi-energy Systems
+- Grid Integration
+- Energy Flexibility
+
+### Artificial Intelligence
+- Explainable AI for Energy Systems
+- Machine Learning
+- Data-driven Decision Support
+
+### Sustainability
+- Techno-economic Assessment
+- Industrial Decarbonization
+- Sustainable Energy Transition
 
 ---
 
@@ -70,7 +92,26 @@ This website documents my research activities, publications, projects, and profe
 - 14th IEA Heat Pump Conference
 
 ---
+## Academic Highlights
 
+- Four Master's degrees in Engineering and Business Administration
+- Three scientific publications
+- Published in *Energy Conversion and Management* (Elsevier)
+- Research collaboration with Absolicon Solar Collector AB
+- More than 20 years of engineering and EPC project experience
+---
+## Current Focus
+
+I am currently seeking PhD opportunities in Europe in areas including:
+
+- Renewable Energy Systems
+- Battery Energy Storage Systems
+- Energy System Modelling
+- AI for Energy Systems
+- Industrial Decarbonization
+- Sustainable Energy Transition
+
+---
 ## Website Status
 
 🚧 This website is currently under development as part of **Project Horizon 2030**.
