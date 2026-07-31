@@ -103,7 +103,7 @@ Energy Conversion and Management (Elsevier)
 
 Authors: Saini, P., Ghasemi, M., et al.
 
-/**DOI:** <https://doi.org/10.1016/j.enconman.2022.116623>
+**DOI:** <https://doi.org/10.1016/j.enconman.2022.116623>
 
 Vibration Analysis of Functionally Graded Cylindrical Shells Subjected to Thermal Loads
 
