@@ -26,11 +26,20 @@
 ---
 ## Navigation
 
-- [Home](README.md)
-- [About Me](about.md)
-- [Research](research.md)
-- [Projects](projects.md)
-- [Publications](publications.md)
+🏠 [Home](README.md)
+
+👤 [About Me](about.md)
+
+🔬 [Research](research.md)
+
+📚 [Publications](publications.md)
+
+🚀 [Projects](projects.md)
+
+📝 Research Notes *(Coming Soon)*
+
+📄 CV *(Coming Soon)*
+
 ## Welcome
 
 Welcome to my personal research website.
