@@ -1,11 +1,26 @@
 <p align="center">
 <img src="anders.png" width="220" alt="Mohammad (Arash) Ghasemi">
 </p>
+
 # Mohammad (Arash) Ghasemi
 
 ## Research Engineer
 
-**Renewable Energy Systems | Battery Energy Storage Systems | Photovoltaics | Energy System Modelling**
+**Renewable Energy Systems • Battery Energy Storage Systems (BESS) • Photovoltaics • Energy System Modelling • Industrial Energy Systems**
+
+---
+
+📍 Sweden
+
+📧 Email: anders.arash@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/mohammad-ghasemi2020/
+
+🆔 ORCID: https://orcid.org/0000-0001-6463-3104
+
+🎓 Google Scholar: [YOUR_GOOGLE_SCHOLAR_LINK](https://scholar.google.com/citations?user=Ta5Mmo4AAAAJ
+
+📄 CV: Coming Soon
 
 ---
 ## Navigation
