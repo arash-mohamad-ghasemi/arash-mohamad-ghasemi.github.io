@@ -26,7 +26,7 @@
 ---
 ## Navigation
 
-🏠 [Home](README.md)
+🏠 **Home**
 
 👤 [About Me](about.md)
 
@@ -97,9 +97,25 @@ My work aims to support industrial decarbonization and the Nordic energy transit
 
 ## Publications
 
-- Energy Conversion and Management (Elsevier)
-- Journal of Computational & Applied Research in Mechanical Engineering
-- 14th IEA Heat Pump Conference
+Techno-economic Comparative Analysis of Solar Thermal Collectors and High-Temperature Heat Pumps for Industrial Steam Generation
+
+Energy Conversion and Management (Elsevier)
+
+Authors: Saini, P., Ghasemi, M., et al.
+
+/**DOI:** <https://doi.org/10.1016/j.enconman.2022.116623>
+
+Vibration Analysis of Functionally Graded Cylindrical Shells Subjected to Thermal Loads
+
+Journal of Computational & Applied Research in Mechanical Engineering
+
+Authors: Talebitooti, M., Ghasemi, M., et al.
+
+**DOI:** <https://doi.org/10.22061/jcarme.2017.602>
+
+Comparative Techno-economic Analysis of High-Temperature Heat Pumps and Parabolic Trough Collectors with PV for Industrial Steam Generation
+
+14th IEA Heat Pump Conference (2023)
 
 ---
 ## Academic Highlights
