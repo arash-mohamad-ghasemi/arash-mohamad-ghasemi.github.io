@@ -1,3 +1,6 @@
+<p align="center">
+<img src="profile.jpg" width="220">
+</p>
 # Mohammad (Arash) Ghasemi
 
 ## Research Engineer
