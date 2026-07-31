@@ -42,8 +42,8 @@ This website documents my research activities, publications, projects, and profe
 ## Research Vision
 
 My long-term research goal is to develop intelligent, resilient, and economically sustainable energy systems through the integration of renewable energy technologies, battery energy storage systems (BESS), photovoltaic systems, heat pumps, artificial intelligence, and advanced energy system modelling.
-
 My work aims to support industrial decarbonization and the Nordic energy transition by combining engineering principles, operational optimization, and data-driven decision support for future low-carbon energy systems.
+
 ---
 ## Research Interests
 
@@ -99,6 +99,7 @@ My work aims to support industrial decarbonization and the Nordic energy transit
 - Published in *Energy Conversion and Management* (Elsevier)
 - Research collaboration with Absolicon Solar Collector AB
 - More than 20 years of engineering and EPC project experience
+
 ---
 ## Current Focus
 
