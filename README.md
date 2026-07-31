@@ -104,7 +104,7 @@ My work aims to support industrial decarbonization and the Nordic energy transit
 ---
 ## Current Focus
 
-I am currently seeking PhD opportunities in Europe in areas including:
+I am currently seeking research opportunities in Europe in areas including:
 
 - Renewable Energy Systems
 - Battery Energy Storage Systems
