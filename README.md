@@ -87,10 +87,10 @@ My work aims to support industrial decarbonization and the Nordic energy transit
 
 ## Education
 
-- MSc Mechanical Engineering
-- MSc Solar Energy Engineering
-- MSc Electric Vehicle Engineering
-- MSc Business Administration (MBA)
+- Mechanical Engineering
+- Solar Energy Engineering
+- Electric Vehicle Engineering
+- Industrial Economics and Management (MBA)
 
 ---
 
@@ -117,12 +117,10 @@ Comparative Techno-economic Analysis of High-Temperature Heat Pumps and Paraboli
 14th IEA Heat Pump Conference (2023)
 
 ---
-## Academic Highlights
+## Academic & Experimental Highlights
 
 - Four Master's degrees in Engineering and Business Administration
 - Three scientific publications
-- Published in *Energy Conversion and Management* (Elsevier)
-- Research collaboration with Absolicon Solar Collector AB
 - More than 20 years of engineering and EPC project experience
 
 ---
