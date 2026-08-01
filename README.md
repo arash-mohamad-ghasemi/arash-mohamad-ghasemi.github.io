@@ -21,7 +21,6 @@
 
 🎓 **Google Scholar:** <https://scholar.google.com/citations?user=Ta5Mmo4AAAAJ>
 
-📄 CV: Coming Soon
 
 ---
 ## Navigation
